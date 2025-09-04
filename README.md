@@ -1,41 +1,27 @@
-# 👋 ¡Hola! Soy Leonardo
+# Welcome to My GitHub Profile!
 
-## Sobre mí
+Hello! I’m Leonardo, a passionate developer who loves to create innovative solutions and share knowledge with the community. Here’s a bit more about me:
 
-Soy **Ingeniero Jr. de Integraciones** especializado en soluciones de integración en la nube con Oracle Integration Cloud (OIC) y Oracle Fusion. Me apasiona el desarrollo de software, la automatización y la creación de herramientas que conectan sistemas y mejoran procesos. Siempre estoy aprendiendo nuevas tecnologías y enfrentando retos con entusiasmo.
+## 🚀 About Me
+- I’m currently working on various projects in web development and machine learning.
+- I enjoy collaborating with other developers and contributing to open-source projects.
+- I’m always eager to learn new technologies and improve my skills.
 
----
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, VS Code
 
-## 🚀 Tecnologías y herramientas
+## 💼 Projects
+- [Project One](https://github.com/Leonardoih/project-one): A web application that does X.
+- [Project Two](https://github.com/Leonardoih/project-two): A machine learning model for Y.
 
-- **Integraciones:** Oracle OIC, Oracle Fusion, Apache Camel, Quarkus
-- **Backend:** Python, Java, PHP, SQL, Django
-- **Frontend:** React, JavaScript, HTML
-- **Otros:** Automatización, APIs, Cloud
+## 🌱 I’m Currently Learning
+- Advanced React techniques
+- Cloud computing with AWS
 
----
+## 📫 Get in Touch
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/leonardoih) or email me at [leonardo@example.com](mailto:leonardo@example.com).
 
-## 📌 Proyectos destacados
-
-- [**Open-Rest-Client-Leodev75**](https://github.com/Leonardoih/Open-Rest-Client-Leodev75): Cliente REST para pruebas de APIs, útil para entornos de integración y desarrollo.
-- [**django-crud-auth**](https://github.com/Leonardoih/django-crud-auth): CRUD con autenticación en Django, demostrando buenas prácticas en Python y backend.
-- [**quarkus-camel-fac-elecectronica**](https://github.com/Leonardoih/quarkus-camel-fac-elecectronica): Integración de facturación electrónica usando Quarkus y Apache Camel.
-
-Puedes ver más proyectos en mi [GitHub](https://github.com/Leonardoih?tab=repositories).
-
----
-
-## 🌐 Encuéntrame en
-
-- [LinkedIn](https://www.linkedin.com/in/leoih)
-- [YouTube - @leoDEV75](https://www.youtube.com/@leoDEV75)
-
----
-
-## 💡 Frase favorita
-
-> El mundo no se detiene, yo tampoco.
-
----
-
-¡Gracias por visitar mi perfil! 🚀
+Thanks for visiting my profile!
